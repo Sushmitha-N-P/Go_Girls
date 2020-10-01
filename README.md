@@ -16,7 +16,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 4. [Women Who Go](https://www.womenwhogo.org)
 
-5. [Ladies Learning Code](https://ladieslearningcode.com)
+5. [Women Learns Code](https://ladieslearningcode.com)
 
 6. [AnitaB.org - Women transform technology](https://anitab.org)
 
